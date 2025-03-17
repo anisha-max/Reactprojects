@@ -1,0 +1,14 @@
+Store only takes data  updation through reducers
+
+make a store
+    configureStore
+        reducer
+
+
+make slice(features) => used for making reducers
+    initialState
+    reducer : function (state ,action)
+
+
+useDispatch
+useSelector
